@@ -71,4 +71,4 @@ EXAMPLE
 
 _See code: [src/commands/api.ts](https://github.com/heroku/heroku-api-plugin/blob/v2.1.10/src/commands/api.ts)_
 <!-- commandsstop -->
-  Deploy Arjun-creato
+  deploy Arjun-creato
